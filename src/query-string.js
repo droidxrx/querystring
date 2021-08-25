@@ -446,5 +446,4 @@ const exclude = (input, filter, options) => {
 
     return pick(input, exclusionFilter, options);
 };
-
 export { extract, parse, stringify, parseUrl, stringifyUrl, pick, exclude };
