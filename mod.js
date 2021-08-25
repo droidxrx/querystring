@@ -1,2 +1,2 @@
-export * from "./types.d.ts";
+/// <reference types="./types.d.ts" />
 export * from "./src/query-string.js";
